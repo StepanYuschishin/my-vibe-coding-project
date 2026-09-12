@@ -4,21 +4,21 @@
 
 ## Scenario
 
-_____
+Scenario 01 · The Retention Engine
 
 ## Riskiest assumption
 
 _The one belief that, if false, sinks the idea._
 
-_____
+New accounts churn because they fail to discover and complete the core “aha” action during their first week.
 
 ## Hypothesis
 
-> We believe **[change]** will cause **[outcome]** for **[user]**. We'll know we're right when **[signal]**.
+> We believe **a guided week-one activation path that surfaces the core "aha" action** will cause **more new accounts reach first value** for **new B2B SaaS accounts**. We'll know we're right when **week-one activation rises from 22% to above 40%**.
 
 ## Risk type
 
-- [ ] Value (do they want it?)
+- [x] Value (do they want it?)
 - [ ] Usability (can they use it?)
 - [ ] Feasibility (can we build it?)
 - [ ] Viability (should we?)
@@ -27,10 +27,15 @@ _____
 
 _The result that would make you stop or pivot._
 
-_____
+If guiding the first action doesn’t move activation, onboarding isn’t the real problem, pivot.
 
 ## The three ingredients
 
-- **Real data (domain metrics):** _____
-- **User voice (verbatim quotes):** _____
+- **Real data (domain metrics):**
+  - 30%, 90-day churn: share of new accounts gone within 3 months.
+  - 22%, Activation rate: reach the "aha" action in week one.
+  - 1.4, Seats active / account: adoption rarely spreads past the buyer.
+- **User voice (verbatim quotes):**
+  - "I signed up, poked around for ten minutes, and never figured out what it actually did for my team.", Ops lead, churned day 12
+  - "Nobody on my team adopted it, so I stopped logging in. It felt like one more tool to babysit.", Eng manager, churned day 47
 - **Hypothesis (above):** ✓
