@@ -6,18 +6,18 @@
 
 _Which of the four scenarios (or your own, instructor-approved) did you build?_
 
-_____
+Scenario 01 — The Retention Engine
 
 ## Launch path
 
-- [ ] Copy & Customize (start from a scenario starter prompt)
+- [x] Copy & Customize (start from a scenario starter prompt)
 - [ ] First Screen Method (build only the very first screen the user sees)
 
 ## The build
 
-- **What I built:** _____
-- **Tool used:** Lovable / v0 / Cursor / Bolt / Replit
-- **Shareable link:** _____
+- **What I built:** Early Churn Dashboard for identifying B2B SaaS accounts at risk of churning during their first 90 days.
+- **Tool used:** Lovable
+- **Shareable link:** https://retain-ninety.lovable.app
 
 ## Show & Swap read
 
